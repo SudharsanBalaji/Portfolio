@@ -23,6 +23,7 @@ education:
     "Masters in QA Automation (SDET)",
     "Bachelor's in Electrical and Electronics Engineering"
   ]
+
 tools:
   [
  "Visual Studio Code",
@@ -46,6 +47,7 @@ skills:
     "Software testing",
    "Reporting bugs"
    ]
+
 technical_background:
   [
     "Intern at Cognizant Technology Solutions"
