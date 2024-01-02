@@ -4,11 +4,8 @@
 <h2>Summary</h2>
     <b>Results-oriented professional with a solid foundation in Salesforce Quality Assurance & Admin and a seamless transition to the field of automation testing. Possessing three years of corporate experience, I bring a unique blend of programming expertise and testing acumen to deliver high-quality software solutions. Proven ability to design, develop, and implement robust test automation frameworks, ensuring efficiency and accuracy in the software testing lifecycle.</b>
 
- <h2>Work Experience</h2>
- <b>Application Engineer<b>
- <p>IDFC First Bank Limited</p>
- <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
- 
+<h2> 👨🏻‍💻 &nbsp;A little bit about my Work Experience and skills</h2>
+
 ```yaml
 work_experience:
 [
@@ -23,32 +20,38 @@ work_experience:
 
 education:
   [
-    "Masters in QA Automation (SDET) ",
+    "Masters in QA Automation (SDET)",
     "Bachelor's in Electrical and Electronics Engineering"
   ]
-company: Soulber
+tools:
+[
+  "Visual Studio Code",
+ "Eclipse IDE for Java Developers",
+ "PyCharm IDE",
+ "GitHub",
+ "Postman",
+ "Jira",
+ "Selenium IDE",
+ "Draw.io"
+]
 
-fields_of_interests:
+skills:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Java",
+    "Selenium",
+    "HTML",
+    "CSS",
+    "SQL",
+    "Creating test cases",
+    "Software testing",
+   "Reporting bugs"
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern at Cognizant Technology Solutions",
   ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
+hobbies: ["Cinema", "Music"]
 ```
 <h2>👨‍💻 SDET Projects:</h2>
 
