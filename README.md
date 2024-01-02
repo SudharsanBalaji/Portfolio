@@ -9,13 +9,13 @@
 ```yaml
 work_experience:
  [
-"Working as Application Engineer in IDFC First Bank Limited from August 2022 (24 months)"
+  "Working as Application Engineer in IDFC First Bank Limited from August 2022 (24 months)"
 
-"Learned and applied my knowledge in Salesforce Admin and QA.
- Ensuring that project deliverables are aligned with the business requirements.
- Involved in UAT, functional, regression, sanity testing (i.e manual testing concepts) in different environments.
- Generated testing reports for every releases and maintained the release tracker
- Learned Vendor and Stakeholder"
+  "Learned and applied my knowledge in Salesforce Admin and QA.
+   Ensuring that project deliverables are aligned with the business requirements.
+   Involved in UAT, functional, regression, sanity testing (i.e manual testing concepts) in different environments.
+   Generated testing reports for every releases and maintained the release tracker
+   Learned Vendor and Stakeholder"
  ]
 
 education:
@@ -26,14 +26,14 @@ education:
 
 tools:
   [
- "Visual Studio Code",
- "Eclipse IDE for Java Developers",
- "PyCharm IDE",
- "GitHub",
- "Postman",
- "Jira",
- "Selenium IDE",
- "Draw.io"
+   "Visual Studio Code",
+   "Eclipse IDE for Java Developers",
+   "PyCharm IDE",
+   "GitHub",
+   "Postman",
+   "Jira",
+   "Selenium IDE",
+   "Draw.io"
   ]
 
 skills:
@@ -56,7 +56,7 @@ technical_background:
 
 Problems solved:
   [
-"50+ java problems solved"
+     "50+ java problems solved"
   ]
 
 hobbies: ["Cinema", "Music"]
