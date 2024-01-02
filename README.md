@@ -1,7 +1,56 @@
 # Portfolio
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Sudharsan Balaji! <br/><a href="https://github.com/joshmadakor1">QA Automation Tester (SDET)</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Summary</h2>
+    <b>Results-oriented professional with a solid foundation in Salesforce Quality Assurance & Admin and a seamless transition to the field of automation testing. Possessing three years of corporate experience, I bring a unique blend of programming expertise and testing acumen to deliver high-quality software solutions. Proven ability to design, develop, and implement robust test automation frameworks, ensuring efficiency and accuracy in the software testing lifecycle.</b>
+
+ <h2>Work Experience</h2>
+ <b>Application Engineer<b>
+ <p>IDFC First Bank Limited</p>
+ <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+ 
+```yaml
+work_experience:
+[
+"Working as Application Engineer in IDFC First Bank Limited from August 2022 (24 months)"
+
+"Learned and applied my knowledge in Salesforce Admin and QA.
+ Ensuring that project deliverables are aligned with the business requirements.
+ Involved in UAT, functional, regression, sanity testing (i.e manual testing concepts) in different environments.
+ Generated testing reports for every releases and maintained the release tracker
+ Learned Vendor and Stakeholder"
+]
+
+education:
+  [
+    "Masters in QA Automation (SDET) ",
+    "Bachelor's in Electrical and Electronics Engineering"
+  ]
+company: Soulber
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect",
+    "Intern - Data Science & Machine Learning in Python",
+    "Intern - Internet Of Things",
+    "Intern - VLSI and FPGA Implementation",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and React Native"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
+<h2>👨‍💻 SDET Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
