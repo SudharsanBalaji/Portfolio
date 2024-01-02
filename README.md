@@ -42,10 +42,11 @@ skills:
     "Selenium",
     "HTML",
     "CSS",
+    "Javascript",
     "SQL",
     "Creating test cases",
     "Software testing",
-   "Reporting bugs"
+    "Reporting bugs"
    ]
 
 technical_background:
