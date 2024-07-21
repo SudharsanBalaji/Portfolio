@@ -2,20 +2,26 @@
 <h1>Hi, I'm Sudharsan Balaji! <br/><a href="https://github.com/joshmadakor1">Salesforce Business Analyst</a></h1>
 
 <h2>Summary</h2>
-    <b>Results-oriented professional with a solid foundation in Salesforce Quality Assurance & Admin and a seamless transition to the field of automation testing. Possessing three years of corporate experience, I bring a unique blend of programming expertise and testing acumen to deliver high-quality software solutions. Proven ability to design, develop, and implement robust test automation frameworks, ensuring efficiency and accuracy in the software testing lifecycle.</b>
+    <b>Results-oriented professional with a solid foundation in Salesforce Business Analysis and Administration, possessing two years of corporate experience. Proficient in Salesforce administration, customization, and implementation, with a strong ability to bridge the gap between business requirements and technical solutions. Excellent problem-solving skills, adept at managing multiple projects, and a proven track record of delivering high-quality results on time.
+</b>
 
 <h2> 👨🏻‍💻 &nbsp;A little bit about my Work Experience and skills</h2>
 
 ```yaml
-work_experience:
+
+Work_experience:
  [
   "Working as Salesforce Business Analyst in IDFC First Bank Limited from Oct 2022"
 
+IDFC Fastag Customer Care and CRM Application:
   "Learned and applied my knowledge in Salesforce Business Analysis, Admin and QA.
+   Lead the analysis and documentation of business requirements for Salesforce implementations, ensuring alignment with organizational goals.
+   Collaborate with stakeholders to identify process improvements and develop scalable Salesforce solutions.
    Ensuring that project deliverables are aligned with the business requirements.
    Involved in UAT, functional, regression, sanity testing (i.e manual testing concepts) in different environments.
-   Generated testing reports for every releases and maintained the release tracker
-   Learned Vendor and Stakeholder"
+   Generated testing reports for every releases and maintained the release tracker.
+   Co-ordinated with stakeholders to receive Sign-Offs to maintain Change release management.
+   Learned Vendor and Stakeholder management"
  ]
 
 Core competencies:
