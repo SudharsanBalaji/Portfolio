@@ -1,5 +1,5 @@
 # Portfolio
-<h1>Hi, I'm Sudharsan Balaji! <br/><a href="https://github.com/joshmadakor1">QA Automation Tester (SDET)</a></h1>
+<h1>Hi, I'm Sudharsan Balaji! <br/><a href="https://github.com/joshmadakor1">Salesforce Business Analyst</a></h1>
 
 <h2>Summary</h2>
     <b>Results-oriented professional with a solid foundation in Salesforce Quality Assurance & Admin and a seamless transition to the field of automation testing. Possessing three years of corporate experience, I bring a unique blend of programming expertise and testing acumen to deliver high-quality software solutions. Proven ability to design, develop, and implement robust test automation frameworks, ensuring efficiency and accuracy in the software testing lifecycle.</b>
