@@ -9,9 +9,9 @@
 ```yaml
 work_experience:
  [
-  "Working as Application Engineer in IDFC First Bank Limited from August 2022 (24 months)"
+  "Working as Salesforce Business Analyst in IDFC First Bank Limited from Oct 2022"
 
-  "Learned and applied my knowledge in Salesforce Admin and QA.
+  "Learned and applied my knowledge in Salesforce Business Analysis, Admin and QA.
    Ensuring that project deliverables are aligned with the business requirements.
    Involved in UAT, functional, regression, sanity testing (i.e manual testing concepts) in different environments.
    Generated testing reports for every releases and maintained the release tracker
@@ -20,15 +20,15 @@ work_experience:
 
 core competencies:
 [
-Salesforce Administration
-Business Analysis
-Process Improvement
-Data Analysis
-Project Management
-Requirements Gathering
-User Training & Support
-Agile & Scrum Methodologies
-Stakeholder Management
+  "Salesforce Administration",
+  "Business Analysis",
+  "Process Improvement",
+  "Data Analysis",
+  "Project Management",
+  "Requirements Gathering",
+  "User Training & Support",
+  "Agile & Scrum Methodologies",
+  "Stakeholder Management"
 ]
 
 education:
@@ -43,15 +43,6 @@ certifications:
      "Business English Certificate (Prelims)"
   ]
 
-tools:
-  [
-   "Visual Studio Code",
-   "GitHub",
-   "Postman",
-   "Jira",
-   "Draw.io"
-  ]
-
 skills:
   [
     "Salesforce Service Cloud",
@@ -64,8 +55,7 @@ skills:
     "SQL",
     "Creating test cases",
     "Software testing (manual)",
-    "SDLC",
-    "STLC",
+    "SDLC" and "STLC",
     "Reporting bugs"
    ]
 
