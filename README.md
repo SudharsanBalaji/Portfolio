@@ -18,10 +18,24 @@ work_experience:
    Learned Vendor and Stakeholder"
  ]
 
+core competencies:
+[
+Salesforce Administration
+Business Analysis
+Process Improvement
+Data Analysis
+Project Management
+Requirements Gathering
+User Training & Support
+Agile & Scrum Methodologies
+Stakeholder Management
+]
+
 education:
   [
     "Bachelor's in Electrical and Electronics Engineering"
   ]
+
 certifications:
   [
      "Salesforce certified Admin",
@@ -40,14 +54,18 @@ tools:
 
 skills:
   [
-    "Java",
-    "Selenium",
-    "HTML",
-    "CSS",
-    "Javascript",
+    "Salesforce Service Cloud",
+    "Microsoft Office Suite (Excel, Word, PowerPoint)",
+    "JIRA, Confluence",
+    "Requirement gathering and analysis",
+    "JIRA, Confluence",
+    "Data Loader, SOQL",
+    "Apex",
     "SQL",
     "Creating test cases",
-    "Software testing",
+    "Software testing (manual)",
+    "SDLC",
+    "STLC",
     "Reporting bugs"
    ]
 
