@@ -18,7 +18,7 @@ work_experience:
    Learned Vendor and Stakeholder"
  ]
 
-core competencies:
+Core competencies:
 [
   "Salesforce Administration",
   "Business Analysis",
@@ -31,19 +31,19 @@ core competencies:
   "Stakeholder Management"
 ]
 
-education:
+Education:
   [
     "Bachelor's in Electrical and Electronics Engineering"
   ]
 
-certifications:
+Certifications:
   [
      "Salesforce certified Admin",
      "Salesforce PD I",
      "Business English Certificate (Prelims)"
   ]
 
-skills:
+Skills:
   [
     "Salesforce Service Cloud",
     "Microsoft Office Suite (Excel, Word, PowerPoint)",
@@ -59,7 +59,7 @@ skills:
     "Reporting bugs"
    ]
 
-technical_background:
+Technical_background:
   [
     "Intern at Cognizant Technology Solutions"
   ]
@@ -69,5 +69,5 @@ Problems solved:
      "50+ java problems solved"
   ]
 
-hobbies: ["Cinema", "Music"]
+Hobbies: ["Travel", "Music"]
 ```
