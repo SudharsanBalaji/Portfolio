@@ -20,19 +20,21 @@ work_experience:
 
 education:
   [
-    "Masters in QA Automation (SDET)",
     "Bachelor's in Electrical and Electronics Engineering"
+  ]
+certifications:
+  [
+     "Salesforce certified Admin",
+     "Salesforce PD I",
+     "Business English Certificate (Prelims)"
   ]
 
 tools:
   [
    "Visual Studio Code",
-   "Eclipse IDE for Java Developers",
-   "PyCharm IDE",
    "GitHub",
    "Postman",
    "Jira",
-   "Selenium IDE",
    "Draw.io"
   ]
 
