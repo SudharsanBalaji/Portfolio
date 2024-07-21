@@ -11,6 +11,7 @@
 
 Work_experience:
    [
+
   "Working as Salesforce Business Analyst in IDFC First Bank Limited since Oct 2022"
 
 IDFC Fastag Customer Care and CRM Application:
@@ -22,6 +23,7 @@ IDFC Fastag Customer Care and CRM Application:
    Generated testing reports for every releases and maintained the release tracker.
    Co-ordinated with stakeholders to receive Sign-Offs to maintain Change release management.
    Learned Vendor and Stakeholder management"
+
    ]
 
 Core competencies:
