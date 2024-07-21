@@ -10,8 +10,8 @@
 ```yaml
 
 Work_experience:
- [
-  "Working as Salesforce Business Analyst in IDFC First Bank Limited from Oct 2022"
+   [
+  "Working as Salesforce Business Analyst in IDFC First Bank Limited since Oct 2022"
 
 IDFC Fastag Customer Care and CRM Application:
   "Learned and applied my knowledge in Salesforce Business Analysis, Admin and QA.
@@ -22,10 +22,10 @@ IDFC Fastag Customer Care and CRM Application:
    Generated testing reports for every releases and maintained the release tracker.
    Co-ordinated with stakeholders to receive Sign-Offs to maintain Change release management.
    Learned Vendor and Stakeholder management"
- ]
+   ]
 
 Core competencies:
-[
+  [
   "Salesforce Administration",
   "Business Analysis",
   "Process Improvement",
@@ -35,11 +35,13 @@ Core competencies:
   "User Training & Support",
   "Agile & Scrum Methodologies",
   "Stakeholder Management"
-]
+  ]
 
 Education:
   [
     "Bachelor's in Electrical and Electronics Engineering"
+    "MKCE, Karur (Anna University Affliated Autonomous Institution)"
+    "2018 - 2022"
   ]
 
 Certifications:
@@ -67,12 +69,12 @@ Skills:
 
 Technical_background:
   [
-    "Intern at Cognizant Technology Solutions"
+    "Attended internship at Cognizant Technology Solutions"
   ]
 
-Problems solved:
+Key Achievements:
   [
-     "50+ java problems solved"
+   "Implemented a custom solution to automate a key business process, saving the team work hours."
   ]
 
 Hobbies: ["Travel", "Music"]
