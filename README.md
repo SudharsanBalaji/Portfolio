@@ -12,20 +12,35 @@
 Work_experience:
    [
 
-  "Working as Salesforce Business Analyst in IDFC First Bank Limited since Oct 2022"
+  "Working as Salesforce Administrator in IDFC First Bank Limited since Oct 2022"
 
-IDFC Fastag Customer Care and CRM Application:
+Project Name: eToll SFDC - IDFC Fastag Customer Care and CRM Application
+Client: IDFC First Bank Limited
+Environment: Unlimited Edition, CRM, Lightning Experience
+Role: Salesforce Administrator
 
-  "Learned and applied my knowledge in Salesforce Business Analysis, Admin and QA.
-   Lead the analysis and documentation of business requirements for Salesforce implementations, ensuring alignment with organizational goals.
-   Collaborate with stakeholders to identify process improvements and develop scalable Salesforce solutions.
-   Ensuring that project deliverables are aligned with the business requirements.
-   Involved in UAT, functional, regression, sanity testing (i.e manual testing concepts) in different environments.
-   Generated testing reports for every releases and maintained the release tracker.
-   Co-ordinated with stakeholders to receive Sign-Offs to maintain Change release management.
-   Learned Vendor and Stakeholder management"
+Description:
 
-   ]
+The objective of the project is to store complaints/issues raised by customers and resolve them efficiently with a lower TAT. Additionally, the CRM will be used for cross-selling, upselling, and identifying opportunities.
+
+Roles and Responsibilities:
+
+⮚ Provide first-level support to end customers, including issue identification and resolution/escalation.
+⮚ Maintain users, roles, profiles, security settings, and access settings.
+⮚ Configure complex Salesforce.com Custom Objects, Fields, Flows, Workflows, Approval Processes, etc., as needed.
+⮚ Create page layouts and search layouts to organize fields, custom links, related lists, and other components on record detail and edit pages.
+⮚ Develop and maintain canned reports and dashboards that help drive business decisions.
+⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles, and roles, customization of objects, fields, record types, sharing rules, page layouts, and validations to support vital business functions.
+⮚ Work with management, strategic planning & analysis staff, and end-users to create and manage complex workflow rules, data validation, and triggers.
+⮚ Develop and maintain canned reports and dashboards to track the pipeline for management visibility.
+⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles and roles, customization of objects, fields, record types, sharing rules, page layouts and validations to support vital business functions.
+⮚	Work with management, strategic planning & analysis staff, and end-users to create and manage complex.
+workflow rules, data validation, and triggers.
+⮚ Develop and maintain canned reports and dashboards to track the pipeline for management visibility.
+⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles, and roles, customization of objects, fields, record types, sharing rules, and page layouts and validations to support vital business functions.
+⮚	Create profiles, roles, permission sets, Custom Objects/fields, Installation of AppExchange packages.
+
+]
 
 Core competencies:
   [
