@@ -1,8 +1,8 @@
 # Portfolio
-<h1>Hi, I'm Sudharsan Balaji! <br/><a href="https://github.com/SudharsanBalaji/Portfolio/blob/main/README.md">Salesforce Business Analyst @ IDFC First Bank Limited</a></h1>
+<h1>Hi, I'm Sudharsan Balaji! <br/><a href="https://github.com/SudharsanBalaji/Portfolio/blob/main/README.md">Salesforce Administrator @ IDFC First Bank Limited</a></h1>
 
 <h2>Summary</h2>
-    <b>Results-oriented professional with a solid foundation in Salesforce Business Analysis and Administration, possessing two years of corporate experience. Proficient in Salesforce administration, customization, and implementation, with a strong ability to bridge the gap between business requirements and technical solutions. Excellent problem-solving skills, adept at managing multiple projects, and a proven track record of delivering high-quality results on time.
+    <b>Results-oriented professional with a solid foundation in Salesforce Administration and Support, possessing two years of corporate experience. Proficient in Salesforce administration, customization, and implementation, with a strong ability to bridge the gap between business requirements and technical solutions. Excellent problem-solving skills, adept at managing multiple projects, and a proven track record of delivering high-quality results on time.
 </b>
 
 <h2> 👨🏻‍💻 &nbsp;A little bit about my Work Experience and skills</h2>
