@@ -30,15 +30,18 @@ Roles and Responsibilities:
 ⮚ Configure complex Salesforce.com Custom Objects, Fields, Flows, Workflows, Approval Processes, etc., as needed.
 ⮚ Create page layouts and search layouts to organize fields, custom links, related lists, and other components on record detail and edit pages.
 ⮚ Develop and maintain canned reports and dashboards that help drive business decisions.
-⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles, and roles, customization of objects, fields, record types, sharing rules, page layouts, and validations to support vital business functions.
+⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles, and roles, customization of objects, fields, record 
+   types, sharing rules, page layouts, and validations to support vital business functions.
 ⮚ Work with management, strategic planning & analysis staff, and end-users to create and manage complex workflow rules, data validation, and triggers.
 ⮚ Develop and maintain canned reports and dashboards to track the pipeline for management visibility.
-⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles and roles, customization of objects, fields, record types, sharing rules, page layouts and validations to support vital business functions.
-⮚	Work with management, strategic planning & analysis staff, and end-users to create and manage complex.
-workflow rules, data validation, and triggers.
+⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles and roles, customization of objects, fields, record 
+   types, sharing rules, page layouts and validations to support vital business functions.
+⮚ Work with management, strategic planning & analysis staff, and end-users to create and manage complex.
+   workflow rules, data validation, and triggers.
 ⮚ Develop and maintain canned reports and dashboards to track the pipeline for management visibility.
-⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles, and roles, customization of objects, fields, record types, sharing rules, and page layouts and validations to support vital business functions.
-⮚	Create profiles, roles, permission sets, Custom Objects/fields, Installation of AppExchange packages.
+⮚ Daily administration and support, including but not limited to managing multiple users’ setup, profiles, and roles, customization of objects, fields, record 
+   types, sharing rules, and page layouts and validations to support vital business functions.
+⮚ Create profiles, roles, permission sets, Custom Objects/fields, Installation of AppExchange packages.
 
 ]
 
