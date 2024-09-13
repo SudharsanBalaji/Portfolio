@@ -12,7 +12,7 @@
 Work_experience:
    [
 
-  "Working as Salesforce Administrator in IDFC First Bank Limited since Oct 2022"
+"Working as Salesforce Administrator in IDFC First Bank Limited since Oct 2022"
 
 Project Name: eToll SFDC - IDFC Fastag Customer Care and CRM Application
 Client:       IDFC First Bank Limited
@@ -47,6 +47,7 @@ Roles and Responsibilities:
 
 Core competencies:
   [
+
   "Salesforce Administration",
   "Salesforce Support",
   "Business Analysis",
@@ -57,6 +58,7 @@ Core competencies:
   "User Training & Support",
   "Agile & Scrum Methodologies",
   "Stakeholder Management"
+
   ]
 
 Education:
