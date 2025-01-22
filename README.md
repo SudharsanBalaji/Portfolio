@@ -87,13 +87,15 @@ First Class (8.66/10)
 - **Role:** Product Analyst
 - **Duration:** Jan 2025 – Present
 - **Technologies Used:** FlutterFlow, Figma, Java
-- **Description:** Spearheaded the Tech Initiatives Project for the entire SFDC Retail Assets and Liabilities Org. Code optimizations, License cost optimization, Code vulnarabilties, Bug Fixes, Enhancements
+- **Description:** Led the Tech Initiatives Project for the entire SFDC Retail Assets and Liabilities Orgs, focusing on code optimization, license cost reduction, vulnerability fixes, and enhancements.
 - **Key Contributions:**
-  - Getting inputs from Apexguru, Technical Architects of each Orgs, Checkmarx, Digital Journey Owners and Product Managers
-  - Getting releases done on the planned dates.
-  - Getting QA, UAT and Preprod signoffs on cutoff dates.
-  - User Story creation for all the SFDC Tech Initiative Projects
-  - Managing Tech Team
+  - Collaborated with Apexguru, Technical Architects, Checkmarx, Digital Journey Owners, and Product Managers for inputs.
+  - Ensured timely releases according to planned schedules.
+  - Secured QA, UAT, and Preprod signoffs by specified cutoff dates.
+  - Created comprehensive user stories for all SFDC Tech Initiative Projects.
+  - Managed the Tech Team effectively to achieve project goals.
+  - Engaged with Journey owners and Architects to deliver viable solutions.
+  - Conducted code optimization, increased system efficiency, reduced CPU time, enhanced security, addressed vulnerabilities, removed unused codes, and performed timely cleanup.
 
 ---
 
@@ -110,5 +112,6 @@ First Class (8.66/10)
 - Facilitated communication between stakeholders and technical teams.
 - Generated reports to track and analyze project performance and progress.
 - Worked in Salesforce development and admin roles.
-- Learned Software Development Life Cycle (SDLC).
+- Strong Software Development Life Cycle (SDLC).
 - Strong in Agile methodologies.
+- Strong in Release and Project management
