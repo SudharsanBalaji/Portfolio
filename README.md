@@ -2,24 +2,10 @@
 <h1>Hi, I'm Sudharsan Balaji! <br/><a href="https://github.com/SudharsanBalaji/Portfolio/blob/main/README.md"> Product Analyst @ IDFC First Bank Limited</a></h1>
 
 <h2>Summary</h2>
-    <b>Results-oriented professional with a solid foundation in Salesforce Administration, Development, possessing two years of corporate experience. Proficient in Salesforce administration, customization, and implementation, with a strong ability to bridge the gap between business requirements and technical solutions. Excellent problem-solving skills, adept at managing multiple projects, and a proven track record of delivering high-quality results on time.
+    <b>Results-oriented professional with a solid foundation in Salesforce Administration, Development, Agile methodologies, Release, Business Analysis, Project and Product Management, possessing three years of corporate experience. Proficient in Salesforce administration, customization, and implementation, with a strong ability to bridge the gap between business requirements and technical solutions. Demonstrates excellent problem-solving skills, adept at managing multiple projects, and has a proven track record of delivering high-quality results on time.
 </b>
 
 <h2> 👨🏻‍💻 &nbsp;A little bit about my Work Experience and skills</h2>
-
-
-# Sudharsan Balaji
-
-**Business Analyst**  
-Mumbai, Maharashtra, India  
-📞 +91 9159904012  
-✉️ [sudharsanbalaji2008@gmail.com](mailto:sudharsanbalaji2008@gmail.com)
-
----
-
-## Profile
-
-Hardworking, highly motivated professional eager to lend combined knowledge and skills to enhance business performance. Aspires to work in a highly innovative firm that utilizes my skills and abilities effectively, and to develop my skills to be more precise.
 
 ---
 
@@ -27,13 +13,15 @@ Hardworking, highly motivated professional eager to lend combined knowledge and 
 
 **Anna University, Tamil Nadu**  
 Bachelor of Engineering in Electrical and Electronics Engineering (2018 - 2022)
+First Class (8.66/10)
 
 ---
 
 ## Certifications
 
 - Business English Certificate
-- Salesforce Admin and PD I
+- Salesforce Admin
+- Salesforce PD I
 - C++
 
 ---
@@ -86,7 +74,7 @@ Bachelor of Engineering in Electrical and Electronics Engineering (2018 - 2022)
 
 #### Project 3: FASTag Issuance Application
 - **Role:** Business Analyst
-- **Duration:** Mar 2024 – Present
+- **Duration:** Mar 2024 – Dec 2024
 - **Technologies Used:** FlutterFlow, Figma, Java
 - **Description:** Spearheaded the development of a FASTag issuance application to simplify and expedite the issuance process for customers.
 - **Key Contributions:**
@@ -94,6 +82,18 @@ Bachelor of Engineering in Electrical and Electronics Engineering (2018 - 2022)
   - Designed user-friendly interfaces and workflows using Figma.
   - Led the testing and implementation phases, ensuring a seamless user experience.
   - Successfully enhanced customer satisfaction and system efficiency, resulting in a 20% reduction in issuance time.
+ 
+#### Project 4: SFDC - Tech Initiatives
+- **Role:** Product Analyst
+- **Duration:** Jan 2025 – Present
+- **Technologies Used:** FlutterFlow, Figma, Java
+- **Description:** Spearheaded the Tech Initiatives Project for the entire SFDC Retail Assets and Liabilities Org. Code optimizations, License cost optimization, Code vulnarabilties, Bug Fixes, Enhancements
+- **Key Contributions:**
+  - Getting inputs from Apexguru, Technical Architects of each Orgs, Checkmarx, Digital Journey Owners and Product Managers
+  - Getting releases done on the planned dates.
+  - Getting QA, UAT and Preprod signoffs on cutoff dates.
+  - User Story creation for all the SFDC Tech Initiative Projects
+  - Managing Tech Team
 
 ---
 
@@ -111,3 +111,4 @@ Bachelor of Engineering in Electrical and Electronics Engineering (2018 - 2022)
 - Generated reports to track and analyze project performance and progress.
 - Worked in Salesforce development and admin roles.
 - Learned Software Development Life Cycle (SDLC).
+- Strong in Agile methodologies.
