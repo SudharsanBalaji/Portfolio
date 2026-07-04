@@ -112,3 +112,19 @@ First Class (8.66/10)
 - Strong Software Development Life Cycle (SDLC) knowledge.
 - Strong in Agile methodologies.
 - Strong in Release and Project Management.
+
+---
+
+## Tech Initiatives Project
+
+Diagnosing and resolving Apex errors, field limit breaches, and SOQL 101 (query limit) issues
+Leveraging Apex Guru for code performance recommendations and optimization
+Running Checkmarx static code analysis for security vulnerability scanning
+Reviewing ATHR (Automated Technical Health Review) reports to track org health
+Monitoring and managing file storage and data storage limits
+Working with Platform Events (PE) for event-driven architecture
+Tracking Content (document) storage limits
+Ensuring security compliance and staying current with Salesforce seasonal releases (Spring/Summer/Winter)
+Identifying and remediating broader technical debt across the org
+Apex char limit tracking and periodic unused code, classes cleanup
+Salesforce case management across 15 - Retail asset and liability Orgs.
